@@ -1,6 +1,6 @@
 # MathmaticsforML
 
-### Introduction & Motivation
+### 1) Introduction & Motivation
 - We represent data as vectors.
 - We choose an appropriate model, either using the probabilistic or optimization view.
 - We learn from available data by using numerical optimization methods
@@ -32,7 +32,7 @@ search for a solution.
 #### Four Pillars:
 - Linear regression, where our
 objective is to find functions that map inputs x ∈ RD to corresponding observed function values y ∈ R, which we can interpret as the labels of their
-respective inputs. We will discuss classical model fitting (parameter estimation) via maximum likelihood andMaximum a posteriori estimation,
+respective inputs. We will discuss classical model fitting (parameter estimation) via maximum likelihood and Maximum a posteriori estimation,
 as well as Bayesian linear regression, where we integrate the parameters
 out instead of optimizing them.
 
@@ -45,8 +45,36 @@ data point x.
 scribes a given dataset. We will focus on Gaussian mixture models for this
 purpose, and we will discuss an iterative scheme to find the parameters of
 this model. As in dimensionality reduction, there are no labels associated
-with the data points x ∈ RD . However, we do not seek a low-dimensional
+with the data points x ∈ RD. However, we do not seek a low-dimensional
 representation of the data. Instead, we are interested in a density model
 that describes the data.
+
+### 2.) Linear Algebra
+
+- Linear algebra is the study of vectors and certain rules to manipulate vectors.
+- vectors are special objects that can be added together and multiplied by scalars to produce another object of the same kind.
+#### Geometric vectors:
+- Geometric vectors are directed segments, which can be drawn (at least in two dimensions). Two geometric vectors x and, y can be added, such that x + y = z
+is another geometric vector. Furthermore, multiplication by a scalar λx, λ ∈ R, is also a geometric vector. In fact, it is the original vector
+scaled by λ.
+
+#### Polynomials are also vectors:
+- Two polynomials can be added together, which results in another polynomial and they can be multiplied by a scaler $\lambda \in R$ and the result is polynomial as well.
+- Therefore, polynomials are (rather unusual) instances of vectors.
+Note that polynomials are very different from geometric vectors. While
+geometric vectors are concrete “drawings”, polynomials are abstract
+concepts. However, they are both vectors.
+
+#### Audio signals are vectors:
+Audio signals are represented as a series of
+numbers. We can add audio signals together, and their sum is a new
+audio signal. If we scale an audio signal, we also obtain an audio signal.
+Therefore, audio signals are a type of vector, too.
+
+
+📹 [3B1B](https://youtu.be/fNk_zzaMoSs?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+
+
 
 
