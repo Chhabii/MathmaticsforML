@@ -109,11 +109,13 @@ concepts introduced in this chapter are summarized in Figure below:
 **Linear Independence:** This concept involves vectors that do not express any vector in the set as a linear combination of the others. Linear independence is critical for defining the basis of a vector space.
 
 
-**Basis:** A basis of a vector space is a set of linearly independent vectors that spans the entire vector space. Every vector in the space can be expressed uniquely as a linear combination of basis vectors.
+**Basis:** A basis of a vector space is a set of linearly independent vectors that span the entire vector space. Every vector in the space can be expressed uniquely as a linear combination of basis vectors.
 📹 [Linear combinations, span, and basis vectors](https://youtu.be/k7RM-ot2NWY?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 
-**System of Linear Equations:** This represents multiple linear equations that together form a system. Solutions to such systems represent points of intersection of the equations’ corresponding geometric planes.
+**System of Linear Equations:** Systems of linear equations play a central part in linear algebra. Many
+problems can be formulated as systems of linear equations, and linear
+algebra gives us the tools for solving them.
 
 **Matrix Inverse:** This is a matrix that, when multiplied with the original matrix, yields the identity matrix. The inverse of a matrix is particularly useful in solving systems of linear equations.
 
@@ -127,6 +129,12 @@ concepts introduced in this chapter are summarized in Figure below:
 
 **Classification** could involve using vectors and matrices to classify data into different categories, a common task in machine learning algorithms.
 
+
+**For Example:**
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/0be1f33e-b86f-4898-bf26-e56b1724c15b)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/8b8ac637-48ea-4212-b131-deebf95de272)
 
 
 
