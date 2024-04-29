@@ -129,13 +129,34 @@ algebra gives us the tools for solving them.
 
 **Classification** could involve using vectors and matrices to classify data into different categories, a common task in machine learning algorithms.
 
-
+### System of Linear Equations:
 **For Example:**
 
 ![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/0be1f33e-b86f-4898-bf26-e56b1724c15b)
 
 ![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/8b8ac637-48ea-4212-b131-deebf95de272)
 
+For a real-valued system of linear equations, we obtain either
+no, exactly one, or infinitely many solutions. Linear equation solves a version of the above example when we cannot solve the system of linear equations.
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/7c6c0356-51ad-41d6-9a05-b9b333c9d944)
+
+Remark (Geometric Interpretation of Systems of Linear Equations). In a
+system of linear equations with two variables x1 , x2 , each linear equation
+defines a line on the x1 x2 -plane. Since a solution to a system of linear
+equations must satisfy all equations simultaneously, the solution set is the
+intersection of these lines. This intersection set can be a line (if the linear
+equations describe the same line), a point, or empty (when the lines are
+parallel)
+
+
+### Matrices
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/7c397823-9cd6-4b8a-ab2a-e100808f5041)
+
+### Inverse Matrix
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/678d76a6-1567-46ed-abb9-f3e026e46972)
 
 
 
