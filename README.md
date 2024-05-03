@@ -158,13 +158,78 @@ parallel)
 
 ![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/678d76a6-1567-46ed-abb9-f3e026e46972)
 
+## Solving a system of Linear Equations 
+### Elementary Transformations
 
+- Key to solving a system of linear equations are elementary transformations
+that keep the solution set the same, but that transform the equation system
+into a simpler form.
 
+**Remark**: Pivots and Staircase Structure
+The leading coefficient of a row (the first nonzero number from the left) is called the pivot and is always strictly to the right of the pivot of the row above it. Therefore, any equation system in row-echelon form always has a “staircase” structure.
 
+### Row-Echelon Form
+A matrix is in row-echelon form if:
 
+- All rows that contain only zeros are at the bottom of the matrix; correspondingly, all rows that contain at least one nonzero element are on top of rows that contain only zeros.
+Looking at nonzero rows only, the first nonzero number from the left (also called the pivot or the leading coefficient) is always strictly to the right of the pivot of the row above it.
+**Remark:** Basic and Free Variables
+The variables corresponding to the pivots in the row-echelon form are called basic variables and the other variables are free variables.
 
+### Reduced Row-Echelon Form
+An equation system is in reduced row-echelon form (also: row-reduced echelon form or row canonical form) if
 
+- It is in row-echelon form.
+- Every pivot is 1.
+- The pivot is the only nonzero entry in its column.
 
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/e9e1b5d3-03c3-4bad-9a9b-984b9663ea26)
 
+## Minus-1 Trick: 
+The "Minus-1 Trick"  is a practical method for determining the solution space of a homogeneous system of linear equations, $Ax = 0$. This can be particularly useful in machine learning, especially in areas involving optimization and handling underdetermined systems.
+
+### Understanding the Minus-1 Trick
+The idea is to manipulate a matrix in reduced row echelon form (RREF) to clearly identify a basis for the null space (kernel) of the matrix $A$. The "Minus-1 Trick" involves:
+
+1. Starting with $A$ in RREF.
+2. Augmenting $A$ by adding extra rows where each row has a "-1" in the positions corresponding to missing pivots (free variables) and "0" elsewhere.
+3. The columns of the augmented matrix $\tilde{A}$ that contain "-1" as pivots essentially describe the vectors in the null space of $A$. These vectors form a basis for the solution space of the homogeneous equation $Ax = 0$.
+
+## Application in Machine Learning
+### 1. Feature Selection and Dimensionality Reduction:
+In machine learning, especially in high-dimensional datasets, not all features (variables) might be relevant or independent. Finding a smaller subset of features that can explain the data (or target) can greatly enhance model performance and interpretability. Techniques such as Principal Component Analysis (PCA) or Linear Discriminant Analysis (LDA) often involve finding a basis for the null space of a matrix (e.g., covariance matrix in PCA). The "Minus-1 Trick" could be adapted to help identify linear dependencies and redundancies among features.
+
+### 2. Regularization and Constraint Handling:
+In scenarios involving regularization (like Ridge, Lasso), or where constraints are explicitly part of the model (as in constrained optimization), the ability to characterize and compute the null space becomes crucial. For example, in optimization problems where you want to minimize a loss function subject to certain linear constraints, understanding the null space of the constraint matrix can guide how perturbations affect the feasible solutions.
+
+### 3. Solving Underdetermined Systems:
+Often in machine learning, we deal with underdetermined systems where there are more features (variables) than observations. Such systems are typical in deep learning with a huge number of parameters. Techniques that involve understanding and exploiting the kernel of a matrix, like the "Minus-1 Trick", can help in finding solutions that not only fit the training data but also generalize well by encapsulating the essential structure of the data.
+
+💡# IDEA | [Reference(Inverse matrices, column space and null space)](https://youtu.be/uQhTuRlWMxw?t=179)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/5523f00a-7ae9-454d-8966-30f051e0bace)
+
+💡 In linear regression, Ax=v, x is the weights that try to fall exactly on the b vector. A is the data that transforms the x to v. that x we obtain works as a model. 
+💡 Inverse: Transforming the vector v by A_inverse to obtain x.
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/ebe6566a-172f-43e0-a8f2-56b444b41584)
+
+# [RANK](https://youtu.be/uQhTuRlWMxw?t=488)
+
+### Definition of Rank:
+In the context of linear algebra, the rank of a matrix is defined as the maximum number of linearly independent column vectors in the matrix, which is the same as the maximum number of linearly independent row vectors in the matrix. Rank gives us a measure of the dimensionality of the vector space spanned by its rows or columns.
+
+### Mathematical Expression:
+For a matrix 
+A, the rank can be determined through methods such as:
+
+- Performing Gaussian elimination and counting the number of non-zero rows in the Row-Echelon Form (REF).
+#### - Computing the number of non-zero singular values in its Singular Value Decomposition (SVD).
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/9daa1e38-25ae-4430-91a6-af2dd70dae0b)
+
+# [Singular Value Decomposition](https://youtu.be/vSczTbgc8Rc)
+
+📹 ## [Visualizing, identity matrix, scalar matrix, reflection matrix, diagonal matrix, zero matrix, shear matrix, orthogonal matrix, projection matrix, inverse of a matrix. ](https://youtu.be/7Gtxd-ew4lk)
 
 
