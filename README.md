@@ -232,4 +232,7 @@ A, the rank can be determined through methods such as:
 
 📹 ## [Visualizing, identity matrix, scalar matrix, reflection matrix, diagonal matrix, zero matrix, shear matrix, orthogonal matrix, projection matrix, inverse of a matrix. ](https://youtu.be/7Gtxd-ew4lk)
 
+# REMAIN
+https://youtu.be/mhy-ZKSARxI
 
+https://youtu.be/vSczTbgc8Rc
