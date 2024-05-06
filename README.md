@@ -244,3 +244,8 @@ https://youtu.be/vSczTbgc8Rc
 ![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/0d31405b-6558-4dd8-bf8b-704b2541838b)
 
 ![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/97f27bf3-8304-4501-a812-36d367d0a3ff)
+
+# Covariance Matrix
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/fe3e24f9-29f1-4798-8186-6d5f15bdd90a)
+
+
