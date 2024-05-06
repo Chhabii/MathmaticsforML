@@ -236,3 +236,11 @@ A, the rank can be determined through methods such as:
 https://youtu.be/mhy-ZKSARxI
 
 https://youtu.be/vSczTbgc8Rc
+
+
+
+# [Determinant](https://youtu.be/Ip3X9LOh2dk): 
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/0d31405b-6558-4dd8-bf8b-704b2541838b)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/97f27bf3-8304-4501-a812-36d367d0a3ff)
