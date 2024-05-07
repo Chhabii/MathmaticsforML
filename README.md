@@ -1,4 +1,4 @@
-# MathmaticsforML
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/d2d9169c-e7d8-4177-b168-a7c1d86c1b8c)# MathmaticsforML
 
 ### 1) Introduction & Motivation
 - We represent data as vectors.
@@ -249,6 +249,8 @@ https://youtu.be/vSczTbgc8Rc
 ![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/fe3e24f9-29f1-4798-8186-6d5f15bdd90a)
 
 # Eigenvalues and Eigenvectors: [3B1B](https://youtu.be/PFDu9oVAE-g)
+[Solved](https://youtu.be/TQvxWaQnrqI)
+
 ![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/0ee2eec0-5ba2-4ed2-b632-f172496098ec)
 
 ![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/00da42ce-33f7-4df9-85a8-2390ceb324ae)
@@ -260,4 +262,36 @@ https://youtu.be/vSczTbgc8Rc
 ![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/3242ee45-84f7-4d3b-b9d0-664d7c034178)
 
 ![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/d5c1f4ab-4937-4def-9b09-6637615e125d)
+
+
+
+[Best standford Book](https://cs229.stanford.edu/summer2019/cs229-linalg.pdf)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/29b0b2ac-9435-4aa1-8e6e-3cebde8906d5)
+
+
+# PCA
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/2a3aaa0b-fd3a-4fc7-9e9c-d7a33ebc6d39)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/66cc28c1-518a-4a63-8c39-87912faccf80)
+
+# Positive Definite Matrix
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/4d85cb82-508b-416c-b1f6-e3d3af9a9ff9)
+
+# LU decomposition: 
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/b8bcfab6-ca77-4893-ba28-4540492d9788)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/4dbe7aa3-a612-463b-8857-c6a7ad61787f)
+
+
+# Cholesky Decomposition
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/a473ab48-320c-4229-a437-fa822f81e6c4)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/92a92bde-eb58-4132-af66-05d4cb0e994b)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/3ed65a27-91ff-47ea-bb45-a7e76978959d)
+
+# Diagonalization 
+
 
