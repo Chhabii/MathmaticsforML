@@ -245,7 +245,19 @@ https://youtu.be/vSczTbgc8Rc
 
 ![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/97f27bf3-8304-4501-a812-36d367d0a3ff)
 
-# Covariance Matrix
+# [Covariance Matrix](https://builtin.com/data-science/covariance-matrix)
 ![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/fe3e24f9-29f1-4798-8186-6d5f15bdd90a)
 
+# Eigenvalues and Eigenvectors: [3B1B](https://youtu.be/PFDu9oVAE-g)
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/0ee2eec0-5ba2-4ed2-b632-f172496098ec)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/00da42ce-33f7-4df9-85a8-2390ceb324ae)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/cef9323a-76b4-4045-aed5-4b2ab51a26d0)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/02fc16ec-687f-435f-9085-71024c31e355)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/3242ee45-84f7-4d3b-b9d0-664d7c034178)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/d5c1f4ab-4937-4def-9b09-6637615e125d)
 
