@@ -296,5 +296,19 @@ https://youtu.be/vSczTbgc8Rc
 ![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/3ed65a27-91ff-47ea-bb45-a7e76978959d)
 
 # Diagonalization 
+#### Later...........
+
+
+# Orthogonal and Orthonormal
+
+📹 [Orthogonality and Orthonormality](https://youtu.be/6nqMegdbxik)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/4e6e078b-e1f6-4774-b463-40d990d57d2f)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/955e3fb7-ec8f-4717-8608-908501144b77)
+
+
+
+
 
 
