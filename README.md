@@ -1,4 +1,3 @@
-![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/65f0127a-36d0-470f-a193-d72d08ab23d4)![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/d2d9169c-e7d8-4177-b168-a7c1d86c1b8c)# MathmaticsforML
 
 ### 1) Introduction & Motivation
 - We represent data as vectors.
