@@ -1,4 +1,4 @@
-![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/d2d9169c-e7d8-4177-b168-a7c1d86c1b8c)# MathmaticsforML
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/65f0127a-36d0-470f-a193-d72d08ab23d4)![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/d2d9169c-e7d8-4177-b168-a7c1d86c1b8c)# MathmaticsforML
 
 ### 1) Introduction & Motivation
 - We represent data as vectors.
@@ -309,6 +309,43 @@ https://youtu.be/vSczTbgc8Rc
 
 
 
+# Finale: Understanding Singular Value Decomposition: 
+## Sources: [Visualize Spectral Decomposition](https://youtu.be/mhy-ZKSARxI) | [SVD Visualized, Singular Value Decomposition explained](https://youtu.be/vSczTbgc8Rc)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/c4b96afa-ba1b-4d2a-89f6-e38ff049b880)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/3b87d8ab-d0af-49ad-945d-8ecdf4d465a3)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/776f1248-42e9-473f-a4e1-68e1a5189f6e)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/3189d994-798b-479e-b4b8-a99f0bbce267)
+
+## Spectral decomposition/EigenDecomposition (very imp)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/00eac074-31c3-4df9-b7ba-dba6dda2cd0c)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/ebcd9e98-5802-4523-be7c-4a571a87979a)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/2efef795-1535-44e9-8a49-73d9ca81639a)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/dcec5b31-b83c-43c8-9226-5cade9e5732e)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/af89e9f1-3b39-41ea-982b-c288a88d15a8)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/6b2ac970-7f7b-483c-a070-fcf7dc3979e5)
+
+
+Now what's singular value decomposition? 
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/ab9fbb49-15eb-4c11-b319-de022d759904)
+
+**SL is the normalized eigenvectors arranged in descending order of their eigenvalues OR SL contains the left singular vectors of matrix A.**
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/f8d65eed-73ac-4703-ae73-0f59cbcf9d3b)
+
+### Example:
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/00f8c437-3870-4a1f-9262-0cff77eabaf4)
 
 
 
