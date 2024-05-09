@@ -357,3 +357,10 @@ Now what's singular value decomposition?
 
 ![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/d339af79-ac30-4723-b1f7-c57d91750fb1)
 
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/4b97da53-48bb-404f-be87-b129d23404f5)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/f668dd93-dcbc-4f86-9778-eab061eff711)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/a5d391cf-bd2f-4e41-8e0b-9a12121f035c)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/dea9d9bd-0e1d-44f3-865a-404e4e16021d)
