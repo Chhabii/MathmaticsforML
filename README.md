@@ -275,6 +275,9 @@ https://youtu.be/vSczTbgc8Rc
 
 ![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/66cc28c1-518a-4a63-8c39-87912faccf80)
 
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/a6d8c5c8-0898-4483-8d9c-51d1ac02ac48)
+
+
 # Positive Definite Matrix
 
 ![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/4d85cb82-508b-416c-b1f6-e3d3af9a9ff9)
