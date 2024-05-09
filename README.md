@@ -343,9 +343,17 @@ Now what's singular value decomposition?
 
 ![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/f8d65eed-73ac-4703-ae73-0f59cbcf9d3b)
 
-### Example:
+### Example: Let's visualize the singular value decomposition.
 
 ![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/00f8c437-3870-4a1f-9262-0cff77eabaf4)
 
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/9a38c730-de90-4a26-a46e-e533718354b4)
 
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/676968cb-74dc-4865-bc82-3f78fad71fc0)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/901af803-0200-4adc-bb7f-3dc885a7a7aa)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/f198cb08-6c0a-4b4f-96d9-0a452ee1f380)
+
+![image](https://github.com/Chhabii/MathmaticsforML/assets/60286478/d339af79-ac30-4723-b1f7-c57d91750fb1)
 
